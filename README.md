@@ -2,4 +2,6 @@
 
 Olá bem vindo ao meu livro de receitas!
 
-*Strogonofe de frango!!!
+#1 Strogonofe de frango;
+#2 Pavê;
+
